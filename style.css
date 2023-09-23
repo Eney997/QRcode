@@ -1,0 +1,21 @@
+body {
+    background-color: pink;
+}
+.click {
+    height: 50px;
+    width: 200px;
+    background-color: black;
+    color: red;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    transition: .5s;
+}
+.click:hover {
+    background-color:blueviolet;
+    border-radius: 50%;
+}
+.click:active {
+    background-color: green;
+}
