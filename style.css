@@ -1,21 +1,8 @@
 body {
-    background-color: pink;
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
 }
-.click {
-    height: 50px;
-    width: 200px;
-    background-color: black;
+h1 {
     color: red;
-    font-size: 20px;
-    cursor: pointer;
-    border: none;
-    outline: none;
-    transition: .5s;
-}
-.click:hover {
-    background-color:blueviolet;
-    border-radius: 50%;
-}
-.click:active {
-    background-color: green;
 }
