@@ -1,35 +1,20 @@
 body {
-    background-color: red;
+    background-color: purple;
 }
-.first {
-    height: 500px;
-    width: 100px;
-    background-color: black;
-    transform: translateY(140px);
-    margin-right: 500px;
+h1 {
+    font-size: 50px;
+    font-family: 'Croissant One', cursive;
 }
-.second {
-    height: 100px;
-    width: 300px;
-    background-color: black;
-    margin-top: -360px;
-    transform: translateX(660px);
+h2 {
+    font-size:4;
+    font-family: 'Croissant One', cursive;  
 }
-.third {
-    height: 500px;
-    width: 100px;
-    background-color: black;
-    transform: translateY(-100px);
-    margin-left:1100px;
-}
-.fourth {
-    height: 100px;
-    width: 300px;
-    background-color: black;
-    margin-top: -200px;
-    transform: translateX(900px);
-}
-    
 
     
+
+
+
+
+    
+
 
